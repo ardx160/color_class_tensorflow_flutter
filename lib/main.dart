@@ -37,8 +37,8 @@ class _DetectMainState extends State<DetectMain> {
       path: image.path,
       imageMean: 0.0,
       imageStd: 255.0,
-      numResults: 2,
-      threshold: 0.2,
+      numResults: 5,
+      threshold: 0.0,
       asynch: true
     );
 

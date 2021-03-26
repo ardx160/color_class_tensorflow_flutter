@@ -1,3 +1,5 @@
-overripe
-ripe
-unripe
+daisy
+dandelion
+roses
+sunflowers
+tulips
